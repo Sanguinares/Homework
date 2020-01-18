@@ -23,4 +23,3 @@ def test_str_add(stg, stg1):
 ])
 def test_is_upper(up):
     assert up.isupper() is True
-

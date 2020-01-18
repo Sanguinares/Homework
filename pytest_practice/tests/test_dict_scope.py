@@ -28,5 +28,3 @@ def test_set_dict(dct):
 def test_update(dct, upd):
     dct.update(upd)
     assert 'Jack' in dct
-
-
